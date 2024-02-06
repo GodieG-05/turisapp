@@ -22,7 +22,7 @@ amarillo
 
 *Muestra las fechas de los commits de forma relativa
 
-![image-20240205165754196](C:\Users\ANTONIO JOSE\AppData\Roaming\Typora\typora-user-images\image-20240205165754196.png)
+<img src="/images/alias 2.png">
 
 3) Estas trabajas frecuentemente con el comando git log -1 HEAD para obtener detalles sobre
    el último commit en la rama actual. Sin embargo, encuentras que escribir este comando
@@ -31,20 +31,20 @@ amarillo
    Tu tarea es utilizar el comando git config para crear un alias llamado last que represente el
    comando git log -1 HEAD.
 
-![image-20240205170424672](C:\Users\ANTONIO JOSE\AppData\Roaming\Typora\typora-user-images\image-20240205170424672.png)
+<img src="/images/alias 3.png">
 
 4) Imagina que deseas simplificar el proceso de editar la configuración global de Git. Tu tarea
    es utilizar el comando git config para crear un alias que te permita abrir fácilmente la
    configuración global en tu editor de texto preferido. Ejecuta el comando para crear un alias
    llamado ec que cumpla con la especificación dada.
 
-![image-20240205172406089](C:\Users\ANTONIO JOSE\AppData\Roaming\Typora\typora-user-images\image-20240205172406089.png)
+<img src="/images/alias 4.png">
 
 5) Imagina que estás trabajando en un proyecto Git colaborativo con múltiples colaboradores
    y ramas. Tu tarea es utilizar el comando git log con opciones específicas para personalizar
    la salida del historial de commits y resaltar información clave.
 
-![image-20240205182039163](C:\Users\ANTONIO JOSE\AppData\Roaming\Typora\typora-user-images\image-20240205182039163.png)
+<img src="/images/alias 5.png">
 
 ALIAS USADOS EN ESTA ACTIVIDAD
 
